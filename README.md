@@ -7,7 +7,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/196273511-8456071f-5d70-4da3-8123-f2503250aa23.png" height="290%" width="290%" alt="private endpoints"/>
+<img src="https://user-images.githubusercontent.com/104326475/196273511-8456071f-5d70-4da3-8123-f2503250aa23.png" height="120%" width="120%" alt="private endpoints"/>
 
 <p/>
 
