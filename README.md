@@ -5,11 +5,23 @@
 - You can connect to your PaaS services over a private endpoint in your virtual network.
 - When you enable Private Endpoint, it also creates a private DNS zone so you can map the DNS name for private IP address onto the Azure Storage Account 
 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/196273511-8456071f-5d70-4da3-8123-f2503250aa23.png
+" height="290%" width="290%" alt="review of vnets and VMs"/>
+
+<p/>
+
 # Service Endpoint
 - Service Endpoint goes over the Microsoft backbone network while Private endpoint goes a step further and creates an addtional private connection. 
 - Service endpoint accesses the public IP address of the Storage Account whereas in Private endpoint it is all private communication.
 - Service Endpoint has no additional charge
 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/196273560-2c8b7d05-ac91-41fd-a58d-7b0263f7285d.png" height="290%" width="290%" alt="review of vnets and VMs"/>
+
+<p/>
 
 
 # Private Endpoint Lab #275
