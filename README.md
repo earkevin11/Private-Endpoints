@@ -7,8 +7,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/196273511-8456071f-5d70-4da3-8123-f2503250aa23.png
-" height="290%" width="290%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/196273511-8456071f-5d70-4da3-8123-f2503250aa23.png" height="290%" width="290%" alt="private endpoints"/>
 
 <p/>
 
@@ -19,7 +18,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/196273560-2c8b7d05-ac91-41fd-a58d-7b0263f7285d.png" height="290%" width="290%" alt="review of vnets and VMs"/>
+<img src="https://user-images.githubusercontent.com/104326475/196273560-2c8b7d05-ac91-41fd-a58d-7b0263f7285d.png" height="290%" width="290%" alt="service endpoints"/>
 
 <p/>
 
