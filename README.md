@@ -7,7 +7,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/196273511-8456071f-5d70-4da3-8123-f2503250aa23.png" height="120%" width="120%" alt="private endpoints"/>
+<img src="https://user-images.githubusercontent.com/104326475/196273511-8456071f-5d70-4da3-8123-f2503250aa23.png" height="70%" width="70%" alt="private endpoints"/>
 
 <p/>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/196273560-2c8b7d05-ac91-41fd-a58d-7b0263f7285d.png" height="290%" width="290%" alt="service endpoints"/>
+<img src="https://user-images.githubusercontent.com/104326475/196273560-2c8b7d05-ac91-41fd-a58d-7b0263f7285d.png" height="70%" width="70%" alt="service endpoints"/>
 
 <p/>
 
